@@ -357,6 +357,27 @@ def init_submodules(dimension_list, local=False, read_frame=False):
                 subprocess.run(wget_command, check=True)
     return submodules_dict
 
+def get_close_prompt_from_filename(path: str):
+    """
+    1. prompt-0.suffix -> prompt
+    2. prompt.suffix -> prompt
+    """
+    file_path = "/workspace/VBench/data/prompt_list_70m.txt"
+    
+    with open(file_path, 'r') as file:
+        prompts = file.readlines()
+    prompt_list = [prompt.strip() for prompt in prompts]
+
+    prompt = Path(path).stem
+    
+    words = prompt.split('_')
+    partial_prompt = ' '.join(words)
+    partial_prompt = partial_prompt.split('DPM')[0]
+    
+    for prompt in prompt_list:
+        if partial_prompt in prompt:
+            return prompt
+    
 def get_prompt_from_filename(path: str):
     """
     1. prompt-0.suffix -> prompt

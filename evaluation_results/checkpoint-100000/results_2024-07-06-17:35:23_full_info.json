@@ -1,0 +1,227 @@
+[
+    {
+        "prompt_en": "The frames show a close-up of a person wearing a military uniform with a focus on the shoulder patch. The patch features Arabic script on a green background, bordered by white and black. The camera remains steady with no significant movement or change in angle. There are no new objects or individuals entering the scene, and the background consistently shows a barren landscape. The lighting and weather conditions appear unchanged throughout these frames.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/The_frames_show_a_close-up_of_a_person_wearing_a_military_uniform_with_a_focus_on_the_shoulder_patchDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "On a sunny coastal beach, a Caucasian marine biologist in his thirties observes dolphins near the shore and becomes excited when a young dolphin leaps from the water.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/On_a_sunny_coastal_beach,_a_Caucasian_marine_biologist_in_his_thirties_observes_dolphins_near_the_shDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In a large, humid greenhouse, a middle-aged Hispanic botanist documents the sudden blooming of a rare orchid, carefully recording its characteristics and taking detailed photos.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/In_a_large,_humid_greenhouse,_a_middle-aged_Hispanic_botanist_documents_the_sudden_blooming_of_a_rarDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In a high-tech robotics lab, a middle-aged African American roboticist activates a humanoid robot, whose eyes light up, prompting the roboticist to conduct various diagnostic tests.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/In_a_high-tech_robotics_lab,_a_middle-aged_African_American_roboticist_activates_a_humanoid_robot,_wDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In a bustling emergency room, a middle-aged Hispanic doctor tends to a patient with a sports injury when an ambulance arrives with a new emergency case, requiring immediate attention.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/In_a_bustling_emergency_room,_a_middle-aged_Hispanic_doctor_tends_to_a_patient_with_a_sports_injury_DPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In a cluttered art studio, a young African American man painting an abstract piece is visited by a friend, another artist, with whom he collaborates on a new canvas, blending their styles.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/In_a_cluttered_art_studio,_a_young_African_American_man_painting_an_abstract_piece_is_visited_by_a_fDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "In an autumn forest, a middle-aged Black woman, a wildlife photographer, quietly captures the cautious exploration of a red fox that has emerged into a clearing.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/In_an_autumn_forest,_a_middle-aged_Black_woman,_a_wildlife_photographer,_quietly_captures_the_cautioDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man on stage claps his hands together while facing the audience. The audience, visible in the foreground, holds up mobile devices to record the event, capturing the moment from various angles. The background features a large banner with text identifying the man on stage. Throughout the sequence, the man's expression remains engaged and directed towards the audience. The camera angle remains constant, focusing on capturing the interaction between the man on stage and the audience.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/DPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A young Caucasian postal worker delivers Christmas cards and packages on a snowy winter night in a festive village, receiving warm gratitude from an elderly man at a decorated house.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_young_Caucasian_postal_worker_delivers_Christmas_cards_and_packages_on_a_snowy_winter_night_in_a_fDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A young Asian man, a bookseller in a green sweater, rearranges books in a cozy bookstore during a rainy day when a customer with a wet umbrella enters, seeking a mystery novel.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_young_Asian_man,_a_bookseller_in_a_green_sweater,_rearranges_books_in_a_cozy_bookstore_during_a_raDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A hand enters the frame, pulling a sheet of plastic wrap over three balls of dough placed on a wooden surface. The plastic wrap is stretched to cover the dough more securely. The hand adjusts the wrap, ensuring that it is tight and smooth over the dough. The scene focuses on the hand's movements as it secures the edges of the plastic wrap. No new objects appear, and the camera remains stationary, focusing on the action of covering the dough.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_hand_enters_the_frame,_pulling_a_sheet_of_plastic_wrap_over_three_balls_of_dough_placed_on_a_woodeDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A young Hispanic woman cooking tacos at a bustling evening food market engages with a group of intrigued tourists, serving them freshly made tacos and explaining the ingredients.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_young_Hispanic_woman_cooking_tacos_at_a_bustling_evening_food_market_engages_with_a_group_of_intriDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A luxurious interior of a widebody aircraft is shown, featuring spacious seating areas with large, plush chairs and a well-appointed dining setup with food served on the table. Magazines are placed on a small table, adding to the ambiance of high-end travel. The camera provides a steady view of the cabin, highlighting the opulence and comfort designed for affluent passengers. Text appears overlaying the image, stating \"Widebody Aircraft: $90M+\", indicating the price of the aircraft. The scene remains consistent without any human presence, focusing solely on the aircraft's interior and its features. The scene continues to display the interior of the widebody aircraft without any change in the visual content or camera movement. The text \"Widebody Aircraft: $90M+\" remains on screen, consistently informing about the aircraft's cost. The luxurious setting remains the focal point, with no new objects or changes in the arrangement inside the cabin. The camera maintains a static shot, ensuring the viewer's attention is on the details of the aircraft's design and the lavishness it offers. No new information or visual elements are introduced, maintaining continuity from the previous segment.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_luxurious_interior_of_a_widebody_aircraft_is_shown,_featuring_spacious_seating_areas_with_large,_pDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An elderly Caucasian woman, a landscape painter, sets up her canvas in a bustling urban park and is interrupted by a curious puppy as she captures the lively scene around her.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/An_elderly_Caucasian_woman,_a_landscape_painter,_sets_up_her_canvas_in_a_bustling_urban_park_and_is_DPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A Siberian Husky is positioned in front of a cluttered table, with its gaze directed towards the camera. The dog's facial expression is attentive, and its ears are perked up, indicating alertness. The background shows a room with various items, including what appears to be mail and a blurred out YouTube channel address. The lighting is consistent, highlighting the dog's facial features and fur pattern. No significant movement or action is observed in the dog's posture throughout the frames. The scene remains static with the Siberian Husky maintaining its position at the table. The dog's head turns slightly, giving a different angle of its face in some frames, but returns to the original position facing the camera. The background and lighting remain unchanged, continuing to show the room's interior and the items on the table. There are no new objects or significant changes in the dog's expression or the environment. In these frames, the Husky's attention shifts slightly as if reacting to something off-camera, indicated by a subtle change in the direction of its ears and eyes. The dog's coat and the room's details remain clearly visible under consistent lighting conditions. The table and items in the background are unchanged, and there are no new movements or objects introduced. The overall composition of the scene stays the same, focusing on the dog's reactions and subtle movements.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_Siberian_Husky_is_positioned_in_front_of_a_cluttered_table,_with_its_gaze_directed_towards_the_camDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is drizzling olive oil over a pizza with a spoon from a glass jar. The pizza has a golden-brown crust topped with dollops of white cheese and red sauce. The background shows a wooden table surface, indicating the setting is likely a kitchen. There is no significant movement in the scene, focusing solely on the action of oil being poured. The lighting is bright, enhancing the colors of the food. The scene continues with the person pouring olive oil on the pizza, focusing on the central area. The amount of oil on the pizza visibly increases, giving it a shiny appearance. The spoon used for drizzling is partially visible, held by a hand entering from the upper part of the frame. The consistency of the oil is clear and fluid. The background remains unchanged, maintaining the focus on the pizza. The oil pouring action concludes, and the spoon is being withdrawn from the frame, dripping oil back into the jar. The pizza now looks glossier due to the freshly added oil, emphasizing the texture of the cheese and sauce. The hand and spoon move away, indicating the end of this specific food preparation step. The wooden table and the kitchen setting remain constant throughout. The scene ends with the pizza fully dressed and more visually appealing due to the added oil.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_person_is_drizzling_olive_oil_over_a_pizza_with_a_spoon_from_a_glass_jar._The_pizza_has_a_golden-bDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A person is chopping red chili peppers on a wooden cutting board using a large knife. The focus is on the person's hands and the cutting board, with a bowl of red spice visible in the foreground. The person's movements are swift and precise, indicating skill in handling the knife. No new objects appear, and the scene remains static except for the chopping action. The background is blurred, emphasizing the chopping activity.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_person_is_chopping_red_chili_peppers_on_a_wooden_cutting_board_using_a_large_knife._The_focus_is_oDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man on stage claps his hands together while facing the audience. The audience, visible in the foreground, holds up mobile devices to record the event, capturing the moment from various angles. The background features a large banner with text identifying the man on stage. Throughout the sequence, the man's expression remains engaged and directed towards the audience. The camera angle remains constant, focusing on capturing the interaction between the man on stage and the audience.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_on_stage_claps_his_hands_together_while_facing_the_audience._The_audience,_visible_in_the_foreDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is vigorously mixing ingredients in a large orange bowl on a blue table, surrounded by various kitchen utensils and a small white bowl. He is focused on his task, occasionally looking down into the bowl to check the mix. As he mixes, he uses his other hand to gesture, possibly indicating a point about the mixing technique or the recipe. His expression is engaged and slightly smiling, suggesting enjoyment or satisfaction with the process. The background shows a neatly arranged outdoor setting with plants, indicating the cooking activity is taking place outside.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_is_vigorously_mixing_ingredients_in_a_large_orange_bowl_on_a_blue_table,_surrounded_by_variousDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man is seen preparing food at an outdoor cooking station. He reaches towards a plate containing various vegetables and appears to be selecting items to add to a dish. The cooking station includes a red bowl on a blue stand, and several small bowls with different condiments and ingredients. The man is focused on his task, showing a gesture of picking something from the plate. The surrounding area is decorated with plants, providing a pleasant, natural backdrop for the cooking activity. No significant camera movement or new objects are introduced in these frames.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_is_seen_preparing_food_at_an_outdoor_cooking_station._He_reaches_towards_a_plate_containing_vaDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man in a suit and glasses is adjusting his tie with both hands, his expression neutral. As the frames progress, his facial expressions change from neutral to a slight frown, and he squints slightly. The camera remains static, focusing on his upper body and face throughout the sequence. There is no significant movement or introduction of new objects in the background, which remains plain and unadorned. The lighting is consistent, highlighting the subject's face and upper torso. The man's facial expression intensifies into a deeper frown, and his eyebrows furrow as he appears to be in discomfort or deep thought. His hands are no longer visible, suggesting they may have moved out of the frame or are resting. In the final frame, the scene shifts dramatically as a new, lower segment of the image reveals a blurry, abstract pattern that resembles water or a distorted reflection, possibly indicating a change in the visual or thematic context of the sequence. The camera angle or frame composition appears to have shifted to include this new element, adding a layer of complexity or a shift in narrative focus.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_in_a_suit_and_glasses_is_adjusting_his_tie_with_both_hands,_his_expression_neutral._As_the_fraDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man in a dark suit and red tie is seen standing on a grassy field, speaking and gesturing with his hands. The camera remains focused on him from a frontal view, capturing his expressions and movements as he talks. There is no significant change in the background, which consists of a bright, sunny sky and a well-maintained lawn. Throughout this segment, the man's gestures include pointing and moving his hands open-palmed, enhancing his verbal communication. The lighting is bright, highlighting his facial features and the vividness of his attire. In this segment, a lower-third graphic appears on the screen, displaying the text \"THE KHASHOGGI KILLING\" in white letters on a red background. Below this, another line identifies the man as \"Donald Trump, US President\" in white text. His speech and gestures continue without interruption, and there are no changes in the camera angle or background. The addition of the text provides contextual information about the topic of his discourse, linking his speech to a specific subject matter. The lower-third graphic remains on screen, and the man continues to speak, now using more emphatic hand gestures, such as raising both hands in front of him with palms facing outward. The camera angle and background remain consistent, focusing solely on him as he communicates. The lighting continues to be bright, ensuring clear visibility of his expressions and movements. There are no new elements introduced in the background or any significant shift in the camera's position.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_in_a_dark_suit_and_red_tie_is_seen_standing_on_a_grassy_field,_speaking_and_gesturing_with_hisDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "A man in a black shirt is standing outdoors near a table with a bowl of food. He bends slightly forward, looking directly at the camera with a smile, and begins speaking. He then picks up a smaller bowl from the table, scoops some food from the larger bowl into the smaller one, and holds the smaller bowl up towards the camera, showing its contents. Throughout these actions, his expressions change from smiling to a more neutral, focused look as he handles the food. The background shows a city environment with a statue and some potted plants, which remain constant throughout the frames.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/A_man_in_a_black_shirt_is_standing_outdoors_near_a_table_with_a_bowl_of_food._He_bends_slightly_forwDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An elderly Caucasian woman, an astronomer, adjusts a large telescope in a nighttime observatory under a star-filled sky when a bright meteor unexpectedly streaks across the sky.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/An_elderly_Caucasian_woman,_an_astronomer,_adjusts_a_large_telescope_in_a_nighttime_observatory_undeDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    },
+    {
+        "prompt_en": "An elderly Asian librarian in a quiet library puts aside his cataloging work to help a young child find fairy tale books, leading them to the children's section with recommendations.",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "./data/inference_result/checkpoint-100000/An_elderly_Asian_librarian_in_a_quiet_library_puts_aside_his_cataloging_work_to_help_a_young_child_fDPMSolverSinglestep_gs0.75_s250.mp4"
+        ]
+    }
+]
